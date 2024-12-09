@@ -1,0 +1,9 @@
+Line 221: Class MSComCtl2.DTPicker of control dtpservice was not a loaded control class.
+Line 227: The property name _ExtentX in dtpservice is invalid.
+Line 228: The property name _ExtentY in dtpservice is invalid.
+Line 229: The property name _Version in dtpservice is invalid.
+Line 239: The property name CalendarBackColor in dtpservice is invalid.
+Line 240: The property name CalendarTitleBackColor in dtpservice is invalid.
+Line 241: The property name Format in dtpservice is invalid.
+Line 242: The property name UpDown in dtpservice is invalid.
+Line 243: The property name CurrentDate in dtpservice is invalid.
